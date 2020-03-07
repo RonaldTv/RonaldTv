@@ -1,567 +1,77 @@
 #EXTM3U
-#EXTINF:-1,DISCOVERY HD (USA)
-http://46.166.148.163:8000/33Nv9cxp9L/jdgAIIrqRF/28225
-
-#EXTINF:-1,USA NETWORK HD
-http://46.166.148.163:8000/33Nv9cxp9L/jdgAIIrqRF/14
-
-#EXTINF:-1,WEATHER USA HD
-http://46.166.148.163:8000/33Nv9cxp9L/jdgAIIrqRF/29675
-
-#EXTINF:-1,#EXTINF:-1USA Network
-http://23.237.22.82:8086/udp/127.0.0.1:56054
-
-#EXTINF:-1,ABC (KABC) (PST)
-http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
-
-#EXTINF:-1,ABC (WWSB) (EST)
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-
-#EXTINF:-1,ABC News (SD)
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-
-#EXTINF:-1,ABC News (HD)
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-
-#EXTINF:-1,Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
-
-#EXTINF:-1,Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-
-#EXTINF:-1,AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-
-#EXTINF:-1,America's Funniest Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1,American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1,Animal Planet*
-http://80.80.160.168/live/1/live.m3u8
-
-#EXTINF:-1,Apple Sauce Network
-https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8
-
-#EXTINF:-1,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-
-#EXTINF:-1,AXS TV
-http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
-
-#EXTINF:-1,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-
-#EXTINF:-1,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-
-#EXTINF:-1,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-
-#EXTINF:-1,Big Ten Network
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-
-#EXTINF:-1,Bloomberg Television (Opt-1)
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1,Bravo
-http://161.0.157.5/PLTV/88888888/224/3221226804/index.m3u8
-
-#EXTINF:-1,Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
-
-#EXTINF:-1,C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-
-#EXTINF:-1,C-SPAN 2
-https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-
-#EXTINF:-1,C-SPAN 3
-https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-
-#EXTINF:-1,California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-
-#EXTINF:-1,Cartoons 4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
-
-#EXTINF:-1,Cartoon Network (LA)
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1,CBS (WFOR) (EST)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1,CBS News (SD)
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1,CBS News (HD)
-https://www.cbsnews.com/common/video/dai_prod.m3u8
-
-#EXTINF:-1,Channel V6
-http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
-
-#EXTINF:-1,Cheddar
-https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
-
-#EXTINF:-1,Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-
-#EXTINF:-1,Classic TV 4U
-https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-
-#EXTINF:-1,CNBC
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
-
-#EXTINF:-1,CNN (Opt-1)
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
-
-#EXTINF:-1,CONtv
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-
-#EXTINF:-1,Cooking 4U
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
-
-#EXTINF:-1,Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-
-#EXTINF:-1,Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
-
-#EXTINF:-1,Dance Music TV
-https://vcndmtv.teleosmedia.com/stream/dmtv/dmtv/seglist_720p.m3u8
-
-#EXTINF:-1,Dancestar TV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-
-#EXTINF:-1,Darcizzle Offshore
-http://30a-tv.com/darcizzle.m3u8
-
-#EXTINF:-1,Discovery Channel*
-http://80.80.160.168/live/8/live.m3u8
-
-#EXTINF:-1,Discovery Science*
-http://80.80.160.168/live/9/live.m3u8
-
-#EXTINF:-1,Disney Junior
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-
-#EXTINF:-1,Documentaries 4U
-https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
-
-#EXTINF:-1,Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-
-#EXTINF:-1,Edge Sport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-
-#EXTINF:-1,Entertainment Studios
-http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8
-
-#EXTINF:-1,ESPN*
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1,ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1,Evine
-https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
-
-#EXTINF:-1,Exercise 4U
-https://nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8
-
-#EXTINF:-1,EZWay Network
-https://edge1.dashmedia.tv/onestudio/ezwaytv/playlist.m3u8
-
-#EXTINF:-1,FailArmy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1,FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8
-
-#EXTINF:-1,Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-
-#EXTINF:-1,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-
-#EXTINF:-1,Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-
-#EXTINF:-1,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-
-#EXTINF:-1,Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1,Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1,Fox (WSVN) (EST)
-http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
-
-#EXTINF:-1,Fox Business
-https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8
-
-#EXTINF:-1,Fox Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1,Fox Premium Comedy
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:-1,Fox Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1,Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-
-#EXTINF:-1,Global Fashion Channel
-https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
-
-#EXTINF:-1,Gone Fishing
-https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8
-
-#EXTINF:-1,Gone Hunting
-https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8
-
-#EXTINF:-1,HBO (LA)
-http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
-
-#EXTINF:-1,HBO 2 (LA)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-
-#EXTINF:-1,Horrified TV
-https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8
-
-#EXTINF:-1,IndieWave
-https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
-
-#EXTINF:-1,Investigation Discovery*
-http://80.80.160.168/live/5/live.m3u8
-
-#EXTINF:-1,Investment Pitch
-http://www.30a-tv.com/InvPit.m3u8
-
-#EXTINF:-1,Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-
-#EXTINF:-1,Kartoon Fun Time (Opt-1)
-https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
-
-#EXTINF:-1,Kartoon Fun Time (Opt-2)
-https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
-
-#EXTINF:-1,Kathryn Raaker's World
-https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8
-
-#EXTINF:-1,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-
-#EXTINF:-1,KLNM TV
-https://edge1.dashmedia.tv/onestudio/Decoder800/playlist.m3u8
-
-#EXTINF:-1,Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-
-#EXTINF:-1,Living Outdoors
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
-
-#EXTINF:-1,Metro Cable Network
-http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
-
-#EXTINF:-1,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1,Mobcrush
-https://ott.mobcrush.com/hls/0/ott.m3u8
-
-#EXTINF:-1,Movee 4U
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-
-#EXTINF:-1,Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1,My9 (WWOR) (EST)
-http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
-
-#EXTINF:-1,My Life TV
-https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
-
-#EXTINF:-1,NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,NASA TV Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,NBC (WTVJ) (EST)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-
-#EXTINF:-1,NBC Golf
-http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
-
-#EXTINF:-1,New Orleans TV
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-
-#EXTINF:-1,Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1,NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-
-#EXTINF:-1,Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-
-#EXTINF:-1,Nothing Scripted
-http://30a-tv.com/NothingScripted.m3u8
-
-#EXTINF:-1,Olympic Channel (SD)
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-
-#EXTINF:-1,Olympic Channel (HD)
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-
-#EXTINF:-1,Olympic Channel (UHD)
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-
-#EXTINF:-1,Out of Focus TV
-http://pablogott.videocdn.scaleengine.net/pablogott-live/play/ooftv1/playlist.m3u8
-
-#EXTINF:-1,Pets.TV
-http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8
-
-#EXTINF:-1,Planet Green*
-http://80.80.160.168/live/4/live.m3u8
-
-#EXTINF:-1,Planet Cannabis
-https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8
-
-#EXTINF:-1,Pop
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-
-#EXTINF:-1,QVC (Opt-1)
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
-
-#EXTINF:-1,Red Bull TV (Opt-1)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
-#EXTINF:-1,Red Bull TV (Opt-2)
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1,Red Bull TV (UHD)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1,Regalia TV
-https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8
-
-#EXTINF:-1,Rev'n
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
-
-#EXTINF:-1,Right Now TV
-https://edge1.dashmedia.tv/onestudio/rightnowtv/playlist.m3u8
-
-#EXTINF:-1,RT Documentary (Opt-2)
-http://ott-cdn.ucom.am/s93/index.m3u8
-
-#EXTINF:-1,Runway TV
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-
-#EXTINF:-1,SafeTV4U2
-http://18.191.91.130:1935/live/safetv/playlist.m3u8
-
-#EXTINF:-1,Sci-fi 4U
-https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
-
-#EXTINF:-1,Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-
-#EXTINF:-1,She TV
-https://edge1.dashmedia.tv/onestudio/She_Tv_Network/playlist.m3u8
-
-#EXTINF:-1,Shop LC
-https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
-
-#EXTINF:-1,Shopping 4U
-https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8
-
-#EXTINF:-1,Sidewalks
-http://30a-tv.com/sidewalks.m3u8
-
-#EXTINF:-1,Spydar TV
-https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
-
-#EXTINF:-1,Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-
-#EXTINF:-1,Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
-
-#EXTINF:-1,TastyTrade
-https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
-
-#EXTINF:-1,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-
-#EXTINF:-1,TBS
-http://170.250.96.20:8117/streams/TBS.m3u8
-
-#EXTINF:-1,The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-
-#EXTINF:-1,The Beach Show
-http://30a-tv.com/beachy.m3u8
-
-#EXTINF:-1,The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-
-#EXTINF:-1,The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
-
-#EXTINF:-1,The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1,The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-1,The Works
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-
-#EXTINF:-1,TLC*
-http://80.80.160.168/live/2/live.m3u8
-
-#EXTINF:-1,TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1,Travel 4U
-https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8
-
-#EXTINF:-1,TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-
-#EXTINF:-1,Universal TV
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-
-#EXTINF:-1,Voice of America (PST)
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
-#EXTINF:-1,Voice of America (EST)
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:-1,Westerns 4U
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-
-#EXTINF:-1,Who?Mag TV
-https://vcndmtv.teleosmedia.com/stream/dmtv/whomagmultimedia/seglist_720p.m3u8
-
-#EXTINF:-1,WSVI-TV
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
-
-#EXTINF:-1,WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
-
-#EXTINF:-1,Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-
-#EXTINF:-1,USA: FOX 4 FORT MYERS UHD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23867
-
-#EXTINF:-1,USA: FOX 43 HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23836
-
-#EXTINF:-1,USA: FOX 5 Las Vegas HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23862
-
-#EXTINF:-1,USA: FOX BUSINESS UHD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23866
-
-#EXTINF:-1,USA: FOX EAST UHD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23865
-
-#EXTINF:-1,USA: FOX News HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23835
-
-#EXTINF:-1,USA: FOX NEWS SD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23864
-
-#EXTINF:-1,USA: FOX NEWS UHD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23834
-
-#EXTINF:-1,USA: Fox Soccer  HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23859
-
-#EXTINF:-1,USA: Fox Soccer Plus HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23858
-
-#EXTINF:-1,USA: Fox Sports 1
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23857
-
-#EXTINF:-1,USA: Fox Sports 2 us
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23856
-
-#EXTINF:-1,USA: Fox Sports 2HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23855
-
-#EXTINF:-1,USA: Fox Sports Arizona HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23854
-
-#EXTINF:-1,USA: Fox Sports College Atlantic HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23853
-
-#EXTINF:-1,USA: Fox Sports College Central HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23852
-
-#EXTINF:-1,USA: Fox Sports College Pacific HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23851
-
-#EXTINF:-1,USA: Fox Sports Detroit HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23850
-
-#EXTINF:-1,USA: Fox Sports Florida HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23849
-
-#EXTINF:-1,USA: Fox Sports Mid West HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23848
-
-#EXTINF:-1,USA: Fox Sports North HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23847
-
-#EXTINF:-1,USA: Fox Sports Ohio ʜᴅ
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23846
-
-#EXTINF:-1,USA: Fox Sports Prime Ticket HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23845
-
-#EXTINF:-1,USA: Fox Sports San Diego HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23844
-
-#EXTINF:-1,USA: Fox Sports South East HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23843
-
-#EXTINF:-1,USA: Fox Sports South HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23842
-
-#EXTINF:-1,USA: Fox Sports South West HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23841
-
-#EXTINF:-1,USA: Fox Sports Sun HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23840
-
-#EXTINF:-1,USA: Fox Sports West HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23838
-
-#EXTINF:-1,USA: Fox Sports Wisconsin HD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23837
-
-#EXTINF:-1,USA: FOX WEST UHD
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/23863
-
-#EXTINF:-1,USA: Fox Sports 2
-http://4ever.biz:80/9uMzzStXtp/jpzJZ9ZVgG/7641
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3535.png",HBO
+http://vvn.neoredi.com/iptv/ch3535?code=135114454296143&key=28724
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3534.png",HBO Zone
+http://vvn.neoredi.com/iptv/ch3534?code=135114454296143&key=53995
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3533.png",HBO Signature
+http://vvn.neoredi.com/iptv/ch3533?code=135114454296143&key=55642
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3532.png",HBO Comedy
+http://vvn.neoredi.com/iptv/ch3532?code=135114454296143&key=53952
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3531.png",FXX
+http://vvn.neoredi.com/iptv/ch3531?code=135114454296143&key=29056
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3530.png",FX
+http://vvn.neoredi.com/iptv/ch3530?code=135114454296143&key=24701
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3527.png",Action Max HD
+http://vvn.neoredi.com/iptv/ch3527?code=135114454296143&key=14720
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3504.png",ABC news
+http://vvn.neoredi.com/iptv/ch3504?code=135114454296143&key=11437
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3501.png",HG TV
+http://vvn.neoredi.com/iptv/ch3501?code=135114454296143&key=23290
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3502.png",Viceland
+http://vvn.neoredi.com/iptv/ch3502?code=135114454296143&key=32043
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",Beinsports
+http://vvn.neoredi.com/iptv/ch3529?code=135114454296143&key=22106
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=135114454296143&key=12157
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
+http://vvn.neoredi.com/iptv/ch3525?code=135114454296143&key=51646
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=135114454296143&key=54617
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=135114454296143&key=24582
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=135114454296143&key=38701
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=135114454296143&key=61270
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=135114454296143&key=21916
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=135114454296143&key=50778
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=135114454296143&key=50917
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=135114454296143&key=40035
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
+http://vvn.neoredi.com/iptv/ch3513?code=135114454296143&key=30356
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=135114454296143&key=23881
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=135114454296143&key=16615
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
+http://vvn.neoredi.com/iptv/ch3511?code=135114454296143&key=54244
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
+http://vvn.neoredi.com/iptv/ch3510?code=135114454296143&key=60519
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3505.png",Willow cricket HD
+http://vvn.neoredi.com/iptv/ch3505?code=135114454296143&key=33017
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3507.png",ABC
+http://vvn.neoredi.com/iptv/ch3507?code=135114454296143&key=19745
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3536.png",SHOWTIME
+http://vvn.neoredi.com/iptv/ch3536?code=135114454296143&key=55698
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3537.png",USA Net.
+http://vvn.neoredi.com/iptv/ch3537?code=135114454296143&key=52146
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3538.png",MLB Net.
+http://vvn.neoredi.com/iptv/ch3538?code=135114454296143&key=44711
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3509.png",TBS HD
+http://vvn.neoredi.com/iptv/ch3509?code=135114454296143&key=35342
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3508.png",TNT HD
+http://vvn.neoredi.com/iptv/ch3508?code=135114454296143&key=38265
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3520.png",FOX HD
+http://vvn.neoredi.com/iptv/ch3520?code=135114454296143&key=38096
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3528.png",AMC HD
+http://vvn.neoredi.com/iptv/ch3528?code=135114454296143&key=46099
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3506.png",E. USA
+http://vvn.neoredi.com/iptv/ch3506?code=135114454296143&key=42746
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3519.png",CBS HD
+http://vvn.neoredi.com/iptv/ch3519?code=135114454296143&key=15078
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3503.png",TLC HD
+http://vvn.neoredi.com/iptv/ch3503?code=135114454296143&key=26270
