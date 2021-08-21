@@ -4111,6 +4111,23 @@ https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1  tvg-id="ABCNewsLive.us" group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="Al Jazeera" group-title="News" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="Alhurra.us" group-title="News" tvg-logo="https://i.imgur.com/GRl09vk.jpg",Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?v=1558393494
 #EXTINF:-1  tvg-id="AlHurra.us" group-title="News" tvg-logo="https://i.imgur.com/GRl09vk.jpg",Al Hurra (486p)
